@@ -1,6 +1,7 @@
 # Restful RPG
 
 - an API frontent to the Moonscribe RPG engine
+    - Moonscribe: [GitHub](https://github.com/sunarch/moonscribe), [PyPI](https://pypi.org/project/moonscribe/)
 
 ### License
 
